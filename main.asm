@@ -27,7 +27,7 @@
 
 #include "wait.asm"
 #include "ow.asm"
-#include "convert.asm"
+#include "bin2bcd.asm"
 #include "usart.asm"
 #include "hd44780.asm"
 

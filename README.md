@@ -1,1 +1,1 @@
-# ds18b20-attiny2313
+# DS18B20 + ATtiny2313 + HD44780
