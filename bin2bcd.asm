@@ -1,3 +1,4 @@
+.equ sign = 2
 data_convert:
         sbr flags,(1<<sign)
         sbrs r1,7

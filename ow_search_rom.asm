@@ -27,7 +27,7 @@
 .def flags = r23
 .equ A = 0
 .equ crc_ok = 1
-.equ sign = 2
+
 
 .macro calc_crc8
     ldi counter,@1

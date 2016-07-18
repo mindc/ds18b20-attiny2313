@@ -136,5 +136,3 @@ OWReadLoop:
 	pop	counter
 	ret
 
-#include "ow_search_rom.asm"
-#include "ow_crc.asm"

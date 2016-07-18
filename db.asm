@@ -55,8 +55,8 @@ _ok:
     .db "OK",0,0
 _error:
     .db "ER",0,0
- _nodev1:
-        ;1234567890123456;helper
+_nodev1:
+        ;1234567890123456;padding
     .db "      error     ",0,0
 _nodev2:
     .db "    no device   ",0,0

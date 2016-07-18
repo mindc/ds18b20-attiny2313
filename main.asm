@@ -1,4 +1,4 @@
-#include "tn2313def.inc"
+#include "tn2313Adef.inc"
 
 	rjmp RESET ; Reset Handler
 	reti;	rjmp INT0 ; External Interrupt0 Handler
@@ -27,6 +27,8 @@
 
 #include "wait.asm"
 #include "ow.asm"
+#include "ow_search_rom.asm"
+#include "ow_crc.asm"
 #include "bin2bcd.asm"
 #include "usart.asm"
 #include "hd44780.asm"

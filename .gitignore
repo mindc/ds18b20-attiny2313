@@ -1,0 +1,7 @@
+*.tmp
+*.bat
+*.aps
+*.aws
+*.obj
+*.hex
+*.map
