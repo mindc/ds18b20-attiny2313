@@ -1,4 +1,5 @@
 ;------------------------------------------------------------------------------
+; code by null@mindc.net
 ; based on C++ code http://gandalf.arubi.uni-kl.de/avr_projects/tempsensor/index.html
 ;--------------------------------------------------
 #define OW_ROMCODE_SIZE 8
